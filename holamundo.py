@@ -6,3 +6,6 @@ print("Esta es la suma ",a+b)
 print("Esta es la resta ",a-b)
 print("Esta es la multiplicion ",a*b)
 print("Esta es la divicion ",a/b)
+
+"""a=int(input("numero 1er", )) 
+b=int(input("numero 2do", ))"""
