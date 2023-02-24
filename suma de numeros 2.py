@@ -19,31 +19,7 @@ print("6\t5\tsuma = ", (subproducto+h))
 print("7\t6\tsuma = ", (subproducto+i))
 print("8\t7\tsuma = ", (subproducto+j))
 
-"""from cmath import sqrt
 
-#Área del triangulo
- 
-a=float(input('primer lado: '))
-b=float(input('sugundo lado: '))
-c=float(input('tercer lado: '))
-
-t=(a+b+c)/2
-s=sqrt(t*(t-a)*(t-b)*(t-c))
-print('respuesta: ',s)"""
-
-#Compra de llantas con descuento 
-
-""""n=int(input('Cantidad de llantas: ')) 
-p=float(input('Precio unitario: ')) 
-if n>4:
-    p=0.9*p 
-t=n*p 
-print('Valor a pagar: ',t)"""
-"""n=1
-while True:
-    for i in range(10):
-        print((i),("\t"),('la suma es ='),(n+(n-0)))
-    break"""
 
     
 
