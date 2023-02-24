@@ -15,16 +15,16 @@ opcion="menu" or "Menu"
 
 if opcion=="menu" or "Menu": # colocamos las 2 posibles formas de escritura para acceder al menu
 
-    while true:
+    while true:              # Mientras que se verdadero imprimira el siguiente menu
         print("BEBIDAS")
         print("A| café")
-        print("b| chocolate")
-        print("c| maca")
-        print("d| quinua")
-        print("e| refresco")
-        print("REGRESAR")
+        print("B| chocolate")
+        print("C| maca")
+        print("D| quinua")
+        print("E| refresco")
+        print("F| REGRESAR")
 
-        opcion2==input("SELECIONE SU BEBIDA [A..G]: ")
+        opcion2==input("SELECIONE SU BEBIDA [A..f]: ")
 
         if opcion2=="A" or "a":
             print("Café")
