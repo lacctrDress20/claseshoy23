@@ -3,6 +3,7 @@
 while True:
     print("La comelona")
     print("Menu")
+    print("A| BEBIDAS ")         #agregando otra opcion para tener mas completo la seccion de menu 
 
 opcion="menu" or "Menu"
 
@@ -18,7 +19,7 @@ if opcion=="menu" or "Menu": # colocamos las 2 posibles formas de escritura para
         print("c| maca")
         print("d| quinua")
         print("e| refresco")
-    
+
 
 
 
