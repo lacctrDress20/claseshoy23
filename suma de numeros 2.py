@@ -1,4 +1,4 @@
-print("Hola\nComo tas\tjajaja")
+"""print("Hola\nComo tas\tjajaja")
 subproducto=0
 x=0+0
 a=0+1
@@ -17,7 +17,15 @@ print("4\t3\tsuma = ", (subproducto+f))
 print("5\t4\tsuma = ", (subproducto+g))
 print("6\t5\tsuma = ", (subproducto+h))
 print("7\t6\tsuma = ", (subproducto+i))
-print("8\t7\tsuma = ", (subproducto+j))
+print("8\t7\tsuma = ", (subproducto+j))"""
+
+
+n='la suma es '
+for n in [1,2,3,4,5,6,7,8,9,10]: 
+        c=(n+(n-1))
+        print('1,: ',n,)
+
+
 
 
 
